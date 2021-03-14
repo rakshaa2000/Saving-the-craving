@@ -11,7 +11,7 @@ function HeroSection(){
 
 
           
-        <h1> Donate Now </h1>
+        <h1> Donate Now ! </h1>
         <p> Help Us Feed The World</p>
         
         <div className="hero-btns">
